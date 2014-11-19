@@ -12,12 +12,6 @@ If you've got the motivation, this curriculum is designed to provide a clear pat
 
 Everyone has a different goal and that's okay.  Whether you're looking to join a tech company, start a startup, build your own website, retool from another language, try out a new hobby, or work as a freelancer, you'll find value in the content we've roped together.  
 
-We know that not everyone wants a job as a web developer... some just want to make a cool website as soon as possible, and we've tried to identify points where someone like that might benefit from moving on instead of diving too deeply into certain material.
-
-Check our our [meetup group](http://www.meetup.com/Learn-Web-Development-Paired-Programming-in-SF) if you'd like to follow the development of The Odin Project and participate in our in-person pairing meetups.  Check our website at [theodinproject.com](http://www.theodinproject.com) and join up to connect with other people across the world!
-
-## Our Philosophy
-
 Our philosophy is that you learn most effectively by building things, by working with other people as much as possible, and by having clear context for what you're learning.  
 
 We believe that the best way to build a strong community of aspiring developers is to provide a high quality and focused path forward and to facilitate collaborative and paired learning wherever possible along the way.
